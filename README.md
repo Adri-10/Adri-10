@@ -81,3 +81,11 @@ Test automation using Selenium for web application testing.
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adri-10/Adri-10/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
