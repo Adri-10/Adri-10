@@ -14,7 +14,6 @@
 🎓 Master's Student in **Computer Science & Engineering**  
 💻 Interested in **Software Quality Assurance, Backend Development, and Machine Learning**  
 🔬 Research enthusiast in **NLP and Large Language Models**  
-🌏 Based in Bangladesh  
 
 I enjoy building projects involving **machine learning, web development, and data analysis** to solve real-world problems. I am also passionate about **research and academic work**, with the goal of contributing to innovative technologies and higher education.
 
