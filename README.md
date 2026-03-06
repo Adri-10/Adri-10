@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Master's Student in **Computer Science & Engineering**  
+🎓 Master's Graduated in **Computer Science & Engineering**  
 💻 Interested in **Software Quality Assurance, Backend Development, and Machine Learning**  
 🔬 Research enthusiast in **NLP and Large Language Models**  
 
